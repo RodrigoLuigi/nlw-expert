@@ -71,7 +71,14 @@ export function NewNoteCard({ onNoteCreated }: NewNoteCardProps) {
       setContent(transcription)
     }
     speechRecognition.onerror = (event) => {
-      console.error(event)
+      if (event.error === 'no-speech') {
+        toast.error('Não foi detectado nenhum áudio ou fala para processar!')
+      } else {
+        toast.error(event.error)
+      }
+
+      setIsRecording(false)
+      setShouldShowOnBoarding(true)
     }
     speechRecognition.start()
   }
@@ -130,6 +137,7 @@ export function NewNoteCard({ onNoteCreated }: NewNoteCardProps) {
               ) : (
                 <textarea
                   autoFocus
+                  name="content"
                   className="text-sm leading-6 text-slate-400 bg-transparent resize-none flex-1 outline-none"
                   onChange={handleContentChange}
                   value={content}
