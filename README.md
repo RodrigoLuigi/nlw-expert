@@ -20,7 +20,10 @@
 </p>
 
 ## Screenshots
-![App Screenshot]()
+![App Screenshot](./nlw-expert-notes/public/print-1.png)
+![App Screenshot](./nlw-expert-notes/public/print-2.png)
+![App Screenshot](./nlw-expert-notes/public/print-3.png)
+![App Screenshot](./nlw-expert-notes/public/print-4.png)
 
 <br>
 
