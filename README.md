@@ -20,7 +20,7 @@
 </p>
 
 ## Screenshots
-<div style="display: grid; grid-template-columns: auto auto; gap: 1rem">
+<div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 1rem">
 
 ![App Screenshot](./nlw-expert-notes/public/print-1.png)
 
