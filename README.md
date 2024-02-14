@@ -37,8 +37,8 @@ Desenvolvimento de um gerador de notas a partir de texto ou áudio transcrito ut
 
 :heavy_check_mark: Criar uma nota através de texto escrito\
 :heavy_check_mark: Criar uma nota através de áudio transcrito\
-:hammer_and_wrench: Buscar por uma nota\
-:hammer_and_wrench: Deletar uma nota
+:heavy_check_mark: Buscar por uma nota\
+:heavy_check_mark: Deletar uma nota
 
 ## 👨‍💻 Tecnologias ##
 
