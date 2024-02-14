@@ -20,10 +20,17 @@
 </p>
 
 ## Screenshots
+<div style="display: grid; grid-template-columns: auto auto; gap: 1rem">
+
 ![App Screenshot](./nlw-expert-notes/public/print-1.png)
+
 ![App Screenshot](./nlw-expert-notes/public/print-2.png)
+
 ![App Screenshot](./nlw-expert-notes/public/print-3.png)
+
 ![App Screenshot](./nlw-expert-notes/public/print-4.png)
+
+</div>
 
 <br>
 
