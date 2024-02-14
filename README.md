@@ -1,4 +1,4 @@
-<img id="top" src="./public/nlw-expert-wallpaper.png" alt="nlw-expert" height="200px" width='100%' />
+<img id="top" src="./nlw-expert-notes/public/nlw-expert-wallpaper.png" alt="nlw-expert" height="200px" width='100%' />
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/RodrigoLuigi/nlw-expert?color=56BEB8">
